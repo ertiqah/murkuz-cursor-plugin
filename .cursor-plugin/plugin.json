@@ -1,0 +1,20 @@
+{
+  "name": "murkuz",
+  "displayName": "Murkuz",
+  "version": "1.0.0",
+  "description": "Murkuz connector for Cursor: Search Console performance, SEO audits, quick wins and article writing from the editor.",
+  "author": {
+    "name": "Ertiqah LLC",
+    "url": "https://ertiqah.com"
+  },
+  "homepage": "https://murkuz.com/integrations/mcp",
+  "repository": "https://github.com/ertiqah/murkuz-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "murkuz",
+    "oauth"
+  ],
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}
